@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Igor Koretskyi
 
-<!--
-**TheJudgeY/TheJudgeY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at NOVA FCT (Lisbon) and Kharkiv National University of Radioelectronics, currently focused on backend development with .NET technologies.  
+I enjoy building efficient, maintainable systems and learning how software scales in real-world environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Languages:** C#, SQL, JavaScript  
+- **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework  
+- **Tools:** Visual Studio, Git, GitHub
+- **Concepts:** OOP, SOLID, REST APIs, Agile (Scrum/Kanban)
+
+---
+
+## Projects
+
+### Ship Battle Game  
+Turn-based game built in .NET Core, applying SOLID principles and asynchronous logic.  
+[View on GitHub](https://github.com/TheJudgeY/Ship-Battle-Project)
+
+### Student Backend System  
+ASP.NET Core MVC backend integrated with SQL Server and RESTful API design.
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/igorkoretskyi)  
+- Email: igor.koretskiy1@gmail.com
