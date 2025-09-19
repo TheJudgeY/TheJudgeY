@@ -20,8 +20,9 @@ I enjoy building efficient, maintainable systems and learning how software scale
 Turn-based game built in .NET Core, applying SOLID principles and asynchronous logic.  
 [View on GitHub](https://github.com/TheJudgeY/Ship-Battle-Project)
 
-### Student Backend System  
-ASP.NET Core MVC backend integrated with SQL Server and RESTful API design.
+### FoodDiary – Full-Stack Nutrition Tracker  
+Full-stack nutrition app: ASP.NET Core 9 (Clean Architecture, CQRS/MediatR, EF Core + PostgreSQL, JWT) + React 18/TypeScript (Vite, Zustand, Tailwind, Recharts) + Capacitor (Android). Features include food logging, recipes, daily/trend analytics, goal tracking, and interactive charts.  
+[View on GitHub](https://github.com/TheJudgeY/FoodDiary)
 
 ---
 
